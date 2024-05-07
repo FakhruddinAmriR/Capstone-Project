@@ -18,7 +18,7 @@ public class PopUpBangunan : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && interact)
         {
-            Debug.Log("Yang lalu biarlah berlalu, jangan balikan mantan, AKU MAU BALIKAN ANJING");
+            Debug.Log("Anda memasuki bangun xxblabla");
         }
     }
 
