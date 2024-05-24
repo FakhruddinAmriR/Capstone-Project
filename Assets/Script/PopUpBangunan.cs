@@ -6,6 +6,7 @@ public class PopUpBangunan : MonoBehaviour
 {
     bool interact;
 
+    [SerializeField] GameObject dialog;
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +19,8 @@ public class PopUpBangunan : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && interact)
         {
-            Debug.Log("Anda memasuki bangun xxblabla");
+            //Debug.Log("Anda memasuki bangun xxblabla");
+            dialog.SetActive(true);
         }
     }
 
