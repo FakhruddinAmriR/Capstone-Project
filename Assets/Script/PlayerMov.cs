@@ -10,8 +10,6 @@ public class PlayerMov : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
     [SerializeField] float speed = 5f;
-
-    bool flip;
     
     void Start()
     {
@@ -35,12 +33,5 @@ public class PlayerMov : MonoBehaviour
     private void FixedUpdate()
     {
         animator.SetFloat("speed" , Mathf.Abs( rb.velocity.x ));
-    }
-
-    void Flip()
-    {
-        if (rb.velocity.x < 0 && rb.velocity.x != 0) flip  = true;
-
-        else flip = false;
     }
 }
