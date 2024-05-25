@@ -12,4 +12,6 @@ public class Dialogues
     public Sprite ilustration;
     public string name;
     public string content;
+
+    public bool pilihan = false;
 }

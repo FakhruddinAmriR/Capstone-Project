@@ -15,7 +15,9 @@ public class Dialogue : MonoBehaviour
     [SerializeField] GameObject[] ilustrations;
     [SerializeField] GameObject[] names;
 
-    private int index;
+    [SerializeField] GameObject button;
+
+    public int index;
 
     [SerializeField] Text textComponent;
     GameObject player;
@@ -40,11 +42,13 @@ public class Dialogue : MonoBehaviour
     void Update()
     {
         if (textComponent.text == string.Empty) StartCoroutine(TypeLine());
-        
+
+        if (dialogues[index].pilihan && textComponent.text == dialogues[index].content) button.SetActive(true);
+
         if (Input.GetMouseButtonDown(0))
         {
 
-            if (textComponent.text == dialogues[index].content)
+            if (textComponent.text == dialogues[index].content && !dialogues[index].pilihan)
             {
                 NextLine();
             }
@@ -53,6 +57,8 @@ public class Dialogue : MonoBehaviour
             {
                 StopAllCoroutines();
                 textComponent.text = dialogues[index].content;
+
+                if (dialogues[index].pilihan) button.SetActive(true);
             }
         }
     }
@@ -110,12 +116,19 @@ public class Dialogue : MonoBehaviour
         }
         else
         {
-            if (nextPhase != null) nextPhase.SetActive(true); 
+            if (nextPhase != null) nextPhase.SetActive(true);
 
             dPanel.SetActive(false);
             index = 0;
             textComponent.text = string.Empty;
         }
+    }
+
+    public void changeIndex(int newIndex)
+    {
+        index = newIndex - 1;
+
+        NextLine();
     }
 }
 
