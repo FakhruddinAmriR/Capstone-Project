@@ -14,6 +14,7 @@ public class ButtonMainMenu : MonoBehaviour
 
     public void Keluar()
     {
+        Debug.Log("Keluar Aplikasi");
         Application.Quit();
     }
 
