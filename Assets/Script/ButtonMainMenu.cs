@@ -9,6 +9,7 @@ public class ButtonMainMenu : MonoBehaviour
     public void Main(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
+        Time.timeScale = 1.0f;
     }
 
     public void Keluar()
