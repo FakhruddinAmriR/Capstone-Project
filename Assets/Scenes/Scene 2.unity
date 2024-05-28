@@ -864,6 +864,7 @@ GameObject:
   - component: {fileID: 320435288}
   - component: {fileID: 320435290}
   - component: {fileID: 320435289}
+  - component: {fileID: 320435291}
   m_Layer: 5
   m_Name: Achievment
   m_TagString: Untagged
@@ -930,6 +931,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320435287}
   m_CullTransparentMesh: 1
+--- !u!320 &320435291
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320435287}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 76c4522100ee31147adb340a0e26b07b, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 9012455874765561146, guid: 76c4522100ee31147adb340a0e26b07b, type: 2}
+    value: {fileID: 1334834815}
+  - key: {fileID: 3888201023174079292, guid: 76c4522100ee31147adb340a0e26b07b, type: 2}
+    value: {fileID: 1153823187}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &336049366
 GameObject:
   m_ObjectHideFlags: 3
@@ -3345,9 +3367,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1153823185}
   - component: {fileID: 1153823184}
-  - component: {fileID: 1153823183}
   - component: {fileID: 1153823182}
   - component: {fileID: 1153823186}
+  - component: {fileID: 1153823187}
   m_Layer: 0
   m_Name: HEWAN
   m_TagString: Untagged
@@ -3368,27 +3390,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 320435287}
---- !u!50 &1153823183
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1153823181}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!212 &1153823184
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3448,8 +3449,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1153823181}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.6242, y: -3.89, z: 0}
-  m_LocalScale: {x: 2.0716, y: 0.6785, z: 1}
+  m_LocalPosition: {x: -4.6, y: -3.89, z: 0}
+  m_LocalScale: {x: 2, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
@@ -3480,6 +3481,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!95 &1153823187
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1153823181}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1157313357
 GameObject:
   m_ObjectHideFlags: 0
@@ -4316,6 +4336,7 @@ GameObject:
   - component: {fileID: 1334834812}
   - component: {fileID: 1334834814}
   - component: {fileID: 1334834813}
+  - component: {fileID: 1334834815}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -4384,6 +4405,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1334834811}
   m_CullTransparentMesh: 1
+--- !u!95 &1334834815
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334834811}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1413615247
 GameObject:
   m_ObjectHideFlags: 0

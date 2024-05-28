@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class Hewan : MonoBehaviour
 {
@@ -25,6 +26,7 @@ public class Hewan : MonoBehaviour
                 Debug.Log("Tersentuh");
 
                 panel.SetActive(true);
+                panel.GetComponent<PlayableDirector>().Play();
             }
         }  
     }
