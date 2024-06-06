@@ -1332,7 +1332,7 @@ GameObject:
   - component: {fileID: 448949812}
   - component: {fileID: 448949811}
   m_Layer: 0
-  m_Name: MESJID
+  m_Name: FASILKOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1378,7 +1378,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1f7093218351a3641af1fff468e377fc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8c9f0e6dce2258146b19bb5a33e08655, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3865,7 +3865,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: FAPERTA
+          m_StringArgument: LP2M
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1188762464

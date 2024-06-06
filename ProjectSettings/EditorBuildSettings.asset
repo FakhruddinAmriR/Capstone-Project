@@ -14,4 +14,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GEDUNG WISUDA.unity
     guid: 0e657732076940648ae445ec80affda9
+  - enabled: 1
+    path: Assets/Scenes/FAPERTA.unity
+    guid: 4bd9f854ccf30ea4aa5eb2d89a285b26
+  - enabled: 1
+    path: Assets/Scenes/FMIPA.unity
+    guid: d505d573858f35d42a90ef434ae3e29a
+  - enabled: 1
+    path: Assets/Scenes/UPA TIK.unity
+    guid: 265d0640dc9d3f042bf596019393ca71
+  - enabled: 1
+    path: Assets/Scenes/LAPANGAN.unity
+    guid: c4e87f107ddbaea4e8c0e25554f6e0e5
+  - enabled: 1
+    path: Assets/Scenes/PERPUSTAKAAN.unity
+    guid: def81bc5fcb2e8a4a93713686add0739
+  - enabled: 1
+    path: Assets/Scenes/FASILKOM.unity
+    guid: 739405133b1ccd6448ef4b177b92be30
+  - enabled: 1
+    path: Assets/Scenes/SOERACHMAN.unity
+    guid: 43d98b3122e7b0648a65d064d5b36963
   m_configObjects: {}
