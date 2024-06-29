@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SOERACHMAN.unity
     guid: 43d98b3122e7b0648a65d064d5b36963
+  - enabled: 1
+    path: Assets/Scenes/LP2M.unity
+    guid: 86df05f01473bfb4686e6fa38943ab12
   m_configObjects: {}
