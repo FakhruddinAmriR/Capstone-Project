@@ -1332,7 +1332,7 @@ GameObject:
   - component: {fileID: 448949812}
   - component: {fileID: 448949811}
   m_Layer: 0
-  m_Name: FKG
+  m_Name: UPA BAHASA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1378,7 +1378,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2b3c9d1732f168644b7a9af5692ad0e6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f8039f3a0c31e974494453898c1d5a91, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3865,7 +3865,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: FKM
+          m_StringArgument: FH
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1188762464
@@ -4200,7 +4200,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu ingin melanjutkan ke daerah selanjutnya??
+  m_Text: Kemana kamu ingin melanjutkan perjalanan?
 --- !u!222 &1231316858
 CanvasRenderer:
   m_ObjectHideFlags: 0
