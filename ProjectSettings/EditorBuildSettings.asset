@@ -51,7 +51,7 @@ EditorBuildSettings:
     path: Assets/Scenes/FKG.unity
     guid: 6305fb47572f8e344985a08455a69c32
   - enabled: 1
-    path: Assets/Scenes/FKM.unity
+    path: Assets/Scenes/FKEP.unity
     guid: a67a6efa7f143294f8bb980d0fcf9aff
   - enabled: 1
     path: Assets/Scenes/FKIP.unity
