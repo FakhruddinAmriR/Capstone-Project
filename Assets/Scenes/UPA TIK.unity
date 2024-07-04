@@ -1147,8 +1147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -700, y: 350}
-  m_SizeDelta: {x: 200, y: 200}
+  m_AnchoredPosition: {x: 700, y: 438}
+  m_SizeDelta: {x: 350, y: 450}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390382197
 MonoBehaviour:
@@ -3220,7 +3220,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -718, y: 166}
+  m_AnchoredPosition: {x: 718, y: 166}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030958917
@@ -3434,7 +3434,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3808,29 +3808,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogues:
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Selamat datang di Unite Pelaksanaan Teknis Teknologi Informasi atau
+      yang biasa disebut dengan UPT TIK
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: "Unit Pelaksana Teknis Teknologi Informasi dan Komunikasi (UPT TIK)
+      Universitas Jember adalah unit kerja yang menyediakan layanan teknologi informasi
+      bagi civitas akademika di Universitas Jember. Gedung UPT TIK seluas 1.200 m\xB2
+      terletak di area kampus yang strategis. UPT TIK didirikan pada tahun 1986 dan
+      telah mengalami beberapa pergantian pimpinan. Saat ini, unit ini dipimpin oleh
+      Prof. Bayu Taruna Widjaja Putra, S.TP., M.Eng., Ph.D., berdasarkan Surat Keputusan
+      Rektor Nomor 15830/UN25/KP/2020 tanggal 23 Oktober 2020."
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Awalnya, UPT TIK memiliki 7 staf, namun kini jumlahnya telah berkembang
+      menjadi 47 personel yang mencakup tenaga administrasi, teknisi, dan dosen dari
+      berbagai fakultas di Universitas Jember. UPT TIK telah mengembangkan berbagai
+      sistem informasi untuk mendukung proses pendidikan, seperti Sistem Informasi
+      Akademik Mahasiswa, Sistem Informasi Wisuda (SIWISUDA), dan Sistem Informasi
+      Keuangan (SIMKEU). Sejak 2013, sistem-sistem ini mulai diintegrasikan ke dalam
+      Sistem Informasi Terpadu (SISTER) Universitas Jember untuk meningkatkan efisiensi
+      dan efektivitas pengelolaan data dan layanan di universitas.
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: anda dapat bertanya pada saya mengenai lingkungan kampus universitas
       jember
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: adakah yang ingin anda tanyakan?
     pilihan: 1
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: fdc62a7b00de21447954dc5ba6622b02, type: 3}
+    name: B.O.S.C.A.
     content: baiklah selamat menikmati suasana kampus
     pilihan: 0
   dPanel: {fileID: 1171692889}
