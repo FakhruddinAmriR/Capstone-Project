@@ -1147,8 +1147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -700, y: 350}
-  m_SizeDelta: {x: 200, y: 200}
+  m_AnchoredPosition: {x: 700, y: 438}
+  m_SizeDelta: {x: 350, y: 450}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390382197
 MonoBehaviour:
@@ -3006,7 +3006,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -718, y: 166}
+  m_AnchoredPosition: {x: 718, y: 166}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030958917
@@ -3042,7 +3042,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NAMA
+  m_Text: 'B.O.S.C.A '
 --- !u!222 &1030958918
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3594,7 +3594,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogues:
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: 'B.O.S.C.A '
+    content: Selamat datang di Fakultas Pertanian Universitas Jember, atau yang biasa
+      disebut dengan FAPERTA
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
     name: 'B.O.S.C.A '
     content: 'Fakultas Pertanian Universitas Jember (UNEJ) didirikan pada tahun 1964
       bersamaan dengan fakultas lainnya di UNEJ. Awalnya, fakultas ini memiliki 5
@@ -3605,7 +3611,7 @@ MonoBehaviour:
       Agribisnis, dan Hama dan Penyakit Tanaman.'
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
     name: 'B.O.S.C.A '
     content: Fakultas Pertanian UNEJ memiliki visi "Penyelenggara pendidikan tinggi
       yang berkualitas dengan mengembangkan sistem pertanian industrial yang berwawasan
@@ -3615,7 +3621,7 @@ MonoBehaviour:
       pelaksanaan tridharma perguruan tinggi.
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
     name: 'B.O.S.C.A '
     content: 'Pada tahun 2008, dua prodi baru dibuka: Agroteknologi (gabungan Agronomi,
       Ilmu Tanah, dan Hama Penyakit Tanaman) dan Agribisnis (perubahan dari Sosial
@@ -3625,7 +3631,7 @@ MonoBehaviour:
       Pertanian dan Ilmu Pertanian. Pada tahun 2018, prodi Peternakan dibuka di Bondowoso.'
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
     name: 'B.O.S.C.A '
     content: 'Saat ini, Fakultas Pertanian UNEJ memiliki 11 prodi: 8 S1 (Agribisnis,
       Agroteknologi, Agronomi, Ilmu Tanah, Proteksi Tanaman, Penyuluhan Pertanian,
@@ -3633,7 +3639,7 @@ MonoBehaviour:
       Agronomi), dan 1 S3 (Doktor Ilmu Pertanian).'
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
     name: djoko tjhandra
     content: baiklah selamat menikmati suasana kampus
     pilihan: 0

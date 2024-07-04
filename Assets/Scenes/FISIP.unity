@@ -1147,8 +1147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -700, y: 350}
-  m_SizeDelta: {x: 200, y: 200}
+  m_AnchoredPosition: {x: 700, y: 438}
+  m_SizeDelta: {x: 350, y: 450}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390382197
 MonoBehaviour:
@@ -3006,7 +3006,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -718, y: 166}
+  m_AnchoredPosition: {x: 718, y: 166}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030958917
@@ -3220,7 +3220,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 8
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3594,29 +3594,78 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogues:
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Selamat datang di Fakultas Ilmu Sosial dan Politik atau yang biasa disebut
+      dengan FISIP
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Pada 15 September 1961, Yayasan Tawang Alun mendirikan Fakultas Sosial
+      dan Politik di Universitas Tawang Alun, yang merupakan pengembangan dari Fakultas
+      Administrasi Negara dan Perusahaan. Fakultas ini memiliki jurusan Ilmu Administrasi
+      Negara dan menghadapi kekurangan tenaga pengajar yang sebagian besar didatangkan
+      dari luar kota. Pada tahun ajaran 1962/1963, jurusan Hubungan Internasional
+      dibuka dengan tenaga pengajar dari Universitas Gadjah Mada.
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: 'Pada 5 Januari 1963, Universitas Tawang Alun dan Universitas Brawijaya
+      dinasionalisasi, dengan Fakultas Sosial dan Politik di Jember menjadi bagian
+      dari Universitas Brawijaya. Pada 1964, Fakultas ini diberi tugas untuk meningkatkan
+      keterampilan karyawan sipil dan militer di daerah Jember dan membuka Jurusan
+      Dana Karya, yang kemudian diubah menjadi Jurusan Administrasi Niaga. Fakultas
+      ini memiliki tiga jurusan: Ilmu Administrasi Negara, Hubungan Internasional,
+      dan Administrasi Niaga.'
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Pada 9 November 1964, Universitas Jember didirikan sebagai universitas
+      independen, dan kegiatan di Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) meningkat
+      pesat, termasuk dalam bidang penelitian dan pengabdian masyarakat. Pada tahun
+      1968, FISIP mulai menghasilkan lulusan sarjana, yang membantu mengatasi kekurangan
+      tenaga pengajar. Fakultas ini mengalami beberapa perubahan kepemimpinan dan
+      pengembangan program.
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Pada periode 1994-1997, dibuka Program Diploma III Perpajakan berkat
+      kerjasama dengan Direktorat Jenderal Pajak. Program Diploma III Pariwisata
+      dibuka pada periode 1997-2001, dan Program Ekstensi untuk Ilmu Administrasi
+      Niaga/Bisnis dibuka pada tahun 1999. Program S1 Ilmu Administrasi Negara/Publik
+      juga dibuka untuk PNS dan masyarakat umum, yang kemudian berubah menjadi Program
+      Reguler Kelas Sore pada tahun 2009/2010.
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: FISIP Universitas Jember terus berusaha memenuhi kebutuhan masyarakat
+      dengan menambah Program Studi, termasuk Program Studi Sosiologi yang dibuka
+      pada tahun 2000. Di era kepemimpinan periode tahun 2005/2006 s.d. 2009/2010
+      Program Studi Ilmu Administrasi Niaga/Bisnis, Ilmu Administrasi Negara/Publik,
+      dan Jurusan/Program Studi Ilmu Hubungan Internasional terakreditasi dengan
+      nilai A, sedangkan Jurusan Ilmu Kesejahteraan Sosial terakreditasi dengan nilai
+      B dan Program Studi Sosial terakreditasi dengan nilai C. Untuk Program DIII,
+      baik Perpajakan maupun Pariwisata masih dalam proses akreditasi.
+    pilihan: 0
+  - dIndex: 0
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: anda dapat bertanya pada saya mengenai lingkungan kampus universitas
       jember
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: adakah yang ingin anda tanyakan?
     pilihan: 1
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: baiklah selamat menikmati suasana kampus
     pilihan: 0
   dPanel: {fileID: 1171692889}
