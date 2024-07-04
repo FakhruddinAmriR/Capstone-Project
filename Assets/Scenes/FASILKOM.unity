@@ -3596,12 +3596,22 @@ MonoBehaviour:
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    content: Pada 2009 UNEJ membuka sebuah program studi setara fakultas, yakni Program
+      Studi Sistem Informasi  tanggal 6 Februari 2009. Program Studi Sistem Informasi  
+      mengajukan pembukaan program studi baru yaitu Program Studi Teknologi Informasi
+      dan disetujui Menristekdikti pada tanggal 19 Oktober 2015, sehingga menerima
+      mahasiswa baru pada Tahun Akademik 2016/2017. Program Studi Sistem Informasi
+      kembali mengajukan program studi baru yaitu Program Studi Informatika yang
+      ijinnya keluar pada 10 Juli 2017, Sehingga menerima mahasiswa baru mulai Tahun
+      Akademik 2017/2018 melalui Jalur Mandiri.
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    content: 'Setelah memiliki 3 Program Studi, Program Studi Sistem Informasi (PSSI)
+      mulai mengajukan diri menjadi Fakultas dan Ijin pendirian Fakultas keluar pada
+      tanggal 28 Desember 2017, sehingga Program Studi Sistem Informasi resmi menjadi
+      Fakultas semenjak tanggal tersebut. '
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}

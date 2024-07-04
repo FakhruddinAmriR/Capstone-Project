@@ -3595,25 +3595,43 @@ MonoBehaviour:
   dialogues:
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    name: 'B.O.S.C.A '
+    content: 'Fakultas Pertanian Universitas Jember (UNEJ) didirikan pada tahun 1964
+      bersamaan dengan fakultas lainnya di UNEJ. Awalnya, fakultas ini memiliki 5
+      jurusan: Agronomi, Sosial Ekonomi Pertanian, Ilmu Tanah, Hama dan Penyakit
+      Tanaman, dan Teknologi Hasil Pertanian. Pada tahun 1997, Teknologi Hasil Pertanian
+      memisahkan diri dan menjadi Fakultas Teknologi Pertanian. Sejak saat itu, Fakultas
+      Pertanian UNEJ memiliki 4 jurusan: Budidaya Pertanian (Agronomi), Ilmu Tanah,
+      Agribisnis, dan Hama dan Penyakit Tanaman.'
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    name: 'B.O.S.C.A '
+    content: Fakultas Pertanian UNEJ memiliki visi "Penyelenggara pendidikan tinggi
+      yang berkualitas dengan mengembangkan sistem pertanian industrial yang berwawasan
+      lingkungan". Fakultas ini didukung oleh 120 dosen, 60 tenaga kependidikan,
+      dan berbagai sarana prasarana seperti ruang kuliah, laboratorium, dan kebun
+      percobaan. Fakultas ini juga menjalin kerjasama dengan berbagai institusi untuk
+      pelaksanaan tridharma perguruan tinggi.
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: anda dapat bertanya pada saya mengenai lingkungan kampus universitas
-      jember
+    name: 'B.O.S.C.A '
+    content: 'Pada tahun 2008, dua prodi baru dibuka: Agroteknologi (gabungan Agronomi,
+      Ilmu Tanah, dan Hama Penyakit Tanaman) dan Agribisnis (perubahan dari Sosial
+      Ekonomi Pertanian). Sejak saat itu, Fakultas Pertanian UNEJ memiliki 2 prodi
+      S1, 2 prodi S2, dan 1 prodi S3.  Pada tahun 2016, Fakultas Pertanian membuka
+      kembali prodi Ilmu Tanah dan Proteksi Tanaman, serta membuka prodi baru Penyuluhan
+      Pertanian dan Ilmu Pertanian. Pada tahun 2018, prodi Peternakan dibuka di Bondowoso.'
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: adakah yang ingin anda tanyakan?
-    pilihan: 1
+    name: 'B.O.S.C.A '
+    content: 'Saat ini, Fakultas Pertanian UNEJ memiliki 11 prodi: 8 S1 (Agribisnis,
+      Agroteknologi, Agronomi, Ilmu Tanah, Proteksi Tanaman, Penyuluhan Pertanian,
+      Ilmu Pertanian/Perkebunan, dan Peternakan), 2 S2 (Magister Agribisnis dan Magister
+      Agronomi), dan 1 S3 (Doktor Ilmu Pertanian).'
+    pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra

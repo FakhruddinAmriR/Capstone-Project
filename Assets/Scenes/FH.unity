@@ -3596,24 +3596,43 @@ MonoBehaviour:
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    content: Fakultas Hukum Universitas Jember (FH UNEJ) merupakan salah satu fakultas
+      hukum terdepan di Indonesia dengan pengalaman 57 tahun. FH UNEJ menawarkan
+      pembelajaran akademik yang terpadu, menggabungkan teori dan praktik dengan
+      melibatkan para alumni yang berpengalaman di berbagai bidang hukum.
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    content: FH UNEJ memiliki reputasi dan kredibilitas yang diakui, dibuktikan dengan
+      akreditasi "Unggul" dari BAN-PT dan sebagai satu-satunya FH di Indonesia yang
+      memiliki organisasi bantuan hukum terakreditasi A. FH UNEJ juga memiliki dosen
+      yang berkualitas, dengan 62% dosen memiliki gelar S3 dan sertifikasi profesional.
+      FH UNEJ aktif dalam publikasi ilmiah, dengan 9 jurnal ilmiah dan 1 jurnal bereputasi
+      internasional terindeks Scopus.
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: anda dapat bertanya pada saya mengenai lingkungan kampus universitas
-      jember
+    content: FH UNEJ menyelenggarakan pendidikan hukum di semua jenjang (S1, S2,
+      S3) dengan jumlah mahasiswa sekitar 2.300 orang dari seluruh Indonesia. Dosen
+      FH UNEJ berkontribusi dalam pembangunan hukum nasional, seperti keikutsertaan
+      dalam penyusunan KUHP Nasional dan legislasi lainnya. Mahasiswa FH UNEJ juga
+      berprestasi, dengan finalis pemilihan mahasiswa berprestasi tingkat nasional
+      pada tahun 2022 dan 2023. Kontribusi alumni FH UNEJ terwadahi dalam Organisasi
+      Keluarga Alumni yang diketuai oleh Dr. Ivan Yustiavandana, Kepala PPATK.
     pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
-    content: adakah yang ingin anda tanyakan?
-    pilihan: 1
+    content: Prestasi dan layanan FH UNEJ didasarkan pada prinsip "Ilmu, Amal, Integritas",
+      yang menekankan keseimbangan antara pengembangan ilmu hukum, pengabdian kepada
+      masyarakat, dan pengasahan integritas segenap civitas akademika. FH UNEJ telah
+      mengembangkan pelayanan berbasis teknologi informasi melalui Sistem Layanan
+      Terpadu FH UNEJ (Silat HUKUM). Komitmen FH UNEJ terhadap integritas dibuktikan
+      dengan penghargaan dari Mendikbudristek sebagai unit kerja pelayanan berpredikat
+      Wilayah Bebas dari Korupsi (WBK) tahun 2022.
+    pilihan: 0
   - dIndex: 0
     ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
     name: djoko tjhandra
