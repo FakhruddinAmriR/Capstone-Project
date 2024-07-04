@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MESJID.unity
     guid: 90308afd726ec844c805ebd6ab4928d9
   - enabled: 1
-    path: Assets/Scenes/GEDUNG WISUDA.unity
+    path: Assets/Scenes/AUDITORIUM.unity
     guid: 0e657732076940648ae445ec80affda9
   - enabled: 1
     path: Assets/Scenes/FAPERTA.unity
