@@ -1147,8 +1147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -700, y: 350}
-  m_SizeDelta: {x: 200, y: 200}
+  m_AnchoredPosition: {x: 700, y: 438}
+  m_SizeDelta: {x: 350, y: 450}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390382197
 MonoBehaviour:
@@ -1332,7 +1332,7 @@ GameObject:
   - component: {fileID: 448949812}
   - component: {fileID: 448949811}
   m_Layer: 0
-  m_Name: LP2M
+  m_Name: C-RISSH
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3006,7 +3006,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -718, y: 166}
+  m_AnchoredPosition: {x: 718, y: 166}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030958917
@@ -3594,29 +3594,36 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogues:
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: hallo nama saya djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: Selamat datang di C-RiSSH
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
-    content: saya akan menemani anda berkeliling lingkungan universitas jember
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
+    content: 'C-RiSSH adalah pusat penelitian yang bergerak di bidang ilmu sosial
+      dan humaniora yang didirikan pada tahun 2017 oleh Drs. Himawan Bayu Patriadi,
+      M.A., Ph.D.; Dr. Abubakar Eby Hara, M.A., Ph.D.; dan Agus Trihartono, S.Sos.,
+      M.A., Ph.D.. Hingga saat ini, C-RiSSH telah melakukan penelitian yang terindeks
+      secara nasional dan internasional dalam bentuk jurnal, prosiding, dan buku.
+      Penelitian yang dilakukan didukung oleh berbagai sumber pendanaan dan C-RiSSH
+      diharapkan akan terus mengembangkan proyek penelitian dan kolaborasi yang akan
+      memberi kontribusi khusus dalam bidang studinya. '
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: anda dapat bertanya pada saya mengenai lingkungan kampus universitas
       jember
     pilihan: 0
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: 5e5a03b560d6ae143b1cb1f125320943, type: 3}
+    name: B.O.S.C.A.
     content: adakah yang ingin anda tanyakan?
     pilihan: 1
   - dIndex: 0
-    ilustration: {fileID: 21300000, guid: 721e3e485683e4241bbf334f1d616d68, type: 3}
-    name: djoko tjhandra
+    ilustration: {fileID: 21300000, guid: fdc62a7b00de21447954dc5ba6622b02, type: 3}
+    name: B.O.S.C.A.
     content: baiklah selamat menikmati suasana kampus
     pilihan: 0
   dPanel: {fileID: 1171692889}
