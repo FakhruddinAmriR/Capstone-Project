@@ -62,4 +62,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FH.unity
     guid: 18dadd40bf18b864f9747a5b56e4e79f
+  - enabled: 1
+    path: Assets/Scenes/Maps.unity
+    guid: ab57cff4f6881d44f9104ca4449dbe72
   m_configObjects: {}
