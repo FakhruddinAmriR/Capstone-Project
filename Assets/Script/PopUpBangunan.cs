@@ -42,4 +42,9 @@ public class PopUpBangunan : MonoBehaviour
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
         }
     }
+
+    public void showdialog()
+    {
+        dialog.SetActive(true);
+    }
 }

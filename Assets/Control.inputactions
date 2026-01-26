@@ -1,0 +1,52 @@
+{
+    "name": "Control",
+    "maps": [
+        {
+            "name": "Android",
+            "id": "ae86027f-825e-49e9-885d-d879248bfc94",
+            "actions": [
+                {
+                    "name": "Maju",
+                    "type": "Button",
+                    "id": "967f5ec8-e1df-425a-a5a2-206d8dddb5b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Mundur",
+                    "type": "Button",
+                    "id": "4bbf9a54-27ab-4ced-87b6-bf6f07562f41",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d626c196-a233-403e-a819-7bd4506cd11a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Maju",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f0d0727-798a-4216-a33e-789b3288d7f1",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mundur",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

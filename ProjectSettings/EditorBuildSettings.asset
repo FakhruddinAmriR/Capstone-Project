@@ -65,4 +65,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Maps.unity
     guid: ab57cff4f6881d44f9104ca4449dbe72
+  - enabled: 1
+    path: Assets/Scenes/MINIGAME FAPERTA.unity
+    guid: ee328dec8c31fe843bf4e73e2fef17ca
+  - enabled: 1
+    path: Assets/Scenes/MINIGAME FASILKOM.unity
+    guid: 6e8ef53c682d79c438b2767f54c5bb78
+  - enabled: 1
+    path: Assets/Scenes/MINIGAME LAPANGAN.unity
+    guid: 073334dd1285cb34db93ea65bfc0c995
   m_configObjects: {}

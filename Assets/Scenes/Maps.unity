@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5086206}
   - component: {fileID: 5086205}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,6 +255,7 @@ MonoBehaviour:
   - {fileID: 1537294827}
   - {fileID: 1623260055}
   - {fileID: 744541052}
+  trigger: {fileID: 1699066465}
 --- !u!4 &28238569
 Transform:
   m_ObjectHideFlags: 0
@@ -294,7 +295,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 34869435}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &34869437
 Camera:
   m_ObjectHideFlags: 0
@@ -582,7 +583,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -961,7 +962,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1423,7 +1424,7 @@ GameObject:
   m_Component:
   - component: {fileID: 346255431}
   - component: {fileID: 346255432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Maps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2046,7 +2047,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2191,7 +2192,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2336,7 +2337,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2481,14 +2482,14 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &872272631
 MonoBehaviour:
@@ -2626,7 +2627,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2880,7 +2881,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3104,7 +3105,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3249,14 +3250,14 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1162250118
 MonoBehaviour:
@@ -3394,7 +3395,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3569,7 +3570,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3725,6 +3726,89 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1316149350}
   m_CullTransparentMesh: 1
+--- !u!1 &1331276979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1331276982}
+  - component: {fileID: 1331276981}
+  - component: {fileID: 1331276980}
+  m_Layer: 0
+  m_Name: MinimapCamera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &1331276980
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331276979}
+  m_Enabled: 0
+--- !u!20 &1331276981
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331276979}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 1
+  m_Depth: -10
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 8
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 8400000, guid: eddbb7feb2605f1408ad917757066d9b, type: 2}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &1331276982
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331276979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -2.5, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1336782179
 GameObject:
   m_ObjectHideFlags: 0
@@ -3823,7 +3907,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3998,7 +4082,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -4233,7 +4317,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -4708,7 +4792,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -4836,6 +4920,54 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1699028050}
   m_CullTransparentMesh: 1
+--- !u!1 &1699066464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1699066466}
+  - component: {fileID: 1699066465}
+  m_Layer: 0
+  m_Name: CompletionTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1699066465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699066464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 228862794b8576f409d74f603365ba81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nextSceneName: 
+  triggerMode: 1
+  completionButton: {fileID: 1654900065}
+  autoCompleteDelay: 2
+  currentScene: 
+--- !u!4 &1699066466
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699066464}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.1283002, y: 2.7153215, z: -0.5869808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1714886934
 GameObject:
   m_ObjectHideFlags: 0
@@ -5231,14 +5363,14 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1907404026
 MonoBehaviour:
@@ -5399,8 +5531,8 @@ GameObject:
   - component: {fileID: 2019222697}
   - component: {fileID: 2019222699}
   m_Layer: 0
-  m_Name: Player
-  m_TagString: Player
+  m_Name: player
+  m_TagString: PlayerMap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5477,7 +5609,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2019222696}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 68851b6f7ce76384ebfe54480e3a58cb, type: 3}
   m_Name: 
@@ -5503,6 +5635,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 1623260055}
+  trigger: {fileID: 0}
 --- !u!1 &2061411236
 GameObject:
   m_ObjectHideFlags: 0
@@ -5710,7 +5843,7 @@ MonoBehaviour:
       - m_Target: {fileID: 28238568}
         m_TargetAssemblyTypeName: Maps, Assembly-CSharp
         m_MethodName: changeButton
-        m_Mode: 1
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine

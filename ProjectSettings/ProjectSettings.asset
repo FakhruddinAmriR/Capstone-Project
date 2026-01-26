@@ -145,7 +145,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DEVABLE.CampusChronicles
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -640,7 +641,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   cloudProjectId: 0328dd11-3e0c-4242-9553-5286993e1d4a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []

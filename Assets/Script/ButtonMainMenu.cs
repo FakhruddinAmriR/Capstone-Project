@@ -12,10 +12,22 @@ public class ButtonMainMenu : MonoBehaviour
         Time.timeScale = 1.0f;
     }
 
+    public void baliklokasi()
+    {
+        Main("LAPANGAN");
+    }
+
     public void Keluar()
     {
         Debug.Log("Keluar Aplikasi");
         Application.Quit();
+    }
+
+    public void ResetProgress()
+    {
+        PlayerPrefs.DeleteKey("VisitedMaps");
+        Debug.Log("reset berhasil");
+
     }
 
 
